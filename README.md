@@ -52,9 +52,9 @@ I believe in the power of clean data, rigorous inference, and interpretable mode
 
 ## 🌍 Links & Contact
 
-- 💼 LinkedIn: _Coming soon_
-- 🧠 Kaggle: [[kaggle.com/your-kaggle-name](https://www.kaggle.com/your-kaggle-name)](https://www.kaggle.com/yangfanc)
-- 💾 GitHub: [[github.com/your-github-username](https://github.com/your-github-username)](https://github.com/KrystalCai)
+- 💼 LinkedIn: https://www.linkedin.com/in/yangfanc/ 
+- 🧠 Kaggle: https://www.kaggle.com/yangfanc 
+- 💾 GitHub: https://github.com/KrystalCai 
 - 📬 Email: YFTsai@126.com OR yfcai113@gmail.com
 
 ---
