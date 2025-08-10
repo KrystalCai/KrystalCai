@@ -45,7 +45,7 @@ I believe in the power of clean data, rigorous inference, and interpretable mode
 
 | Project | Description |
 |--------|-------------|
-| [Wine Quality Analysis (Kaggle)](https://www.kaggle.com/your-kaggle-name/wine-quality-analysis) | EDA, statistical summaries, correlation heatmaps, initial ML models |
+| [Wine Quality Analysis (Kaggle)](https://www.kaggle.com/your-kaggle-name/wine-quality-analysis) | EDA, statistical summaries, correlation heatmaps, initial ML models || Mental Health in Tech Industry (Kaggle) | USurvey data analysis, visualization, aggregation, and initial predictive modeling on mental health factors || Titanic Survival Prediction (Kaggle) | Data preprocessing, feature engineering, logistic regression and tree-based models for survival prediction |
 | 📌 More coming soon | Upcoming projects on statistical modeling in R and Python |
 
 ---
