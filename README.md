@@ -47,6 +47,7 @@ I believe in the power of clean data, rigorous inference, and interpretable mode
 - **Mental Health in Tech Industry (Kaggle)** — Survey data analysis, visualization, aggregation, and initial predictive modeling on mental health factors.
 - **Titanic Survival Prediction (Kaggle)** — Data preprocessing, feature engineering, logistic regression and tree-based models for survival prediction.
 - **Student Performance Data Analysis** — Data cleaning, feature selection, statistical modeling, and predictive modeling on student performance based on various factors like study time, absences, and failures.
+- **Heart Disease Prediction (UCI Dataset)** - Logistic regression model to predict the likelihood of heart disease based on various clinical factors. Performed hypothesis testing (t-tests, chi-square tests), feature selection, and model evaluation using ROC curve and cross-validation.
 
 📌 More coming soon — Upcoming projects on advanced data analysis, machine learning, and statistical modeling.
 
