@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yangfan (Krystal)
 
-I'm a data analyst and statistician, recently graduated from **Iowa State University** with dual majors in **Data Science** and **Statistics**.  
+I'm a data analyst and statistician, recently graduated from **Iowa State University** with dual bachelor's degrees in **Data Science** and **Statistics**.  
 My focus lies in **statistical analysis, machine learning, and real-world data applications** using **Python** and **R**.  
 
 Currently based in **Shenzhen, China**, I'm actively exploring data-driven roles while preparing for graduate studies in statistics (UK or Australia).
