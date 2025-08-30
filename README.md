@@ -3,14 +3,14 @@
 I'm a data analyst and statistician, recently graduated from **Iowa State University** with dual bachelor's degrees in **Data Science** and **Statistics**.  
 My focus lies in **statistical analysis, machine learning, and real-world data applications** using **Python** and **R**.  
 
-Currently based in **Shenzhen, China**, I'm actively exploring data-driven roles while preparing for graduate studies in statistics (UK or Australia).
+Currently based in **Shenzhen, China**, I'm actively developing data-driven projects and exploring professional opportunities in analytics and applied statistics.
 
 ---
 
 ## 💼 Professional Goals
 - Gain hands-on experience in applied statistics & data analysis  
-- Build strong project portfolios with Python & R  
-- Develop research-oriented skills for graduate studies  
+- Build a strong project portfolio with Python & R  
+- Strengthen problem-solving and data communication skills  
 - Contribute to open-source tools and reproducible research  
 
 ---
@@ -63,10 +63,12 @@ Currently based in **Shenzhen, China**, I'm actively exploring data-driven roles
 ---
 
 ## 🧭 Future Plan
-I plan to maintain a focused set of projects that highlight:  
-- Classic statistical methods on real-world datasets  
-- Applied case studies useful for graduate programs  
-- Clear documentation & reproducibility over black-box modeling  
+I plan to maintain a focused set of public projects and statistical analyses, mostly built with Python and R. These projects will highlight:  
+
+- Classic statistical methods applied to real-world datasets  
+- Case studies that demonstrate practical business and research insights  
+- Clear documentation, reproducibility, and interpretability  
+- Emphasis on transparency in modeling, rather than black-box approaches  
 
 > _"All models are wrong, but some are useful."_ — George Box  
 
