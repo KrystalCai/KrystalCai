@@ -42,14 +42,15 @@ Currently based in **Shenzhen, China**, I'm actively developing data-driven proj
 
 ## 📘 Featured Projects
 
+- **S&P 500 Return & Volatility Prediction** — Time-series analysis, feature engineering, and regression models for market risk prediction (Python & R).  
 - **Wine Quality Analysis (Kaggle)** — EDA, statistical summaries, correlation heatmaps, and baseline ML models.  
-- **Mental Health in Tech Industry (Kaggle)** — Survey data analysis, visualization, and predictive modeling on mental health factors.  
+- **Mental Health in Tech Industry (Kaggle)** — Survey data analysis, visualization, and predictive modeling on workplace mental health factors.  
 - **Titanic Survival Prediction (Kaggle)** — Data preprocessing, feature engineering, and tree-based models for survival prediction.  
-- **Student Performance Data Analysis** — Statistical modeling and predictive analysis on study habits, absences, and outcomes.  
 - **Heart Disease Prediction (UCI)** — Logistic regression, hypothesis testing, feature selection, and ROC-based evaluation.  
-- **MNIST Classification (R)** — Handwritten digit recognition with Keras, including precision/recall/F1 metrics.  
-- **A/B Testing for Web Conversion** — Hypothesis testing and visualization of experimental results (Python & R).  
-- **Customer Segmentation (Clustering + PCA)** — Dimensionality reduction and cluster analysis for business insights.  
+- **Student Performance Data Analysis** — Predictive modeling and statistical analysis of study habits, absences, and outcomes.  
+- **Customer Segmentation (Clustering + PCA)** — Dimensionality reduction and unsupervised clustering for actionable business insights.  
+- **MNIST Classification (R)** — Handwritten digit recognition with Keras, including precision, recall, and F1 metrics.  
+- **A/B Testing for Web Conversion** — Experimental design, hypothesis testing, and visualization of conversion rate differences (Python & R).   
 
 ---
 
