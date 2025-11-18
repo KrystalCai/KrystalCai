@@ -51,6 +51,7 @@ Currently based in **Shenzhen, China**, I'm actively developing data-driven proj
 - **Customer Segmentation (Clustering + PCA)** — Dimensionality reduction and unsupervised clustering for actionable business insights.  
 - **MNIST Classification (R)** — Handwritten digit recognition with Keras, including precision, recall, and F1 metrics.  
 - **A/B Testing for Web Conversion** — Experimental design, hypothesis testing, and visualization of conversion rate differences (Python & R).   
+- **Bank Marketing Campaign Analysis(销售数据分析和流程优化)(R)** — Data cleaning, feature engineering, and predictive modeling to optimize marketing strategies (Python & R).  
 
 ---
 
